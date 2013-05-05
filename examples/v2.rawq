@@ -1,0 +1,7 @@
+# 6 statements
+default	s1	s2	s3
+default	s10	s2	s4
+default	s4	s2	s4
+default	s1	s3	s5
+default	_x	s30	s5
+default	_x	s3	s6

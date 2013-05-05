@@ -1,0 +1,27 @@
+{
+  "name": "datapatch",
+  "version": "0.0.1",
+  "description": "RDF linked data diff/patch tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "datapatch --selftest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sandhawke/datapatch-js.git"
+  },
+  "keywords": [
+    "rdf",
+    "linked",
+    "data",
+    "diff",
+    "patch",
+    "ldp"
+  ],
+  "author": "Sandro Hawke <sandro@hawke.org> (http://www.w3.org/People/Sandro)",
+  "license": "MIT",
+  "dependencies": {
+    "optimist": "~0.4.0",
+    "underscore": "~1.4.4"
+  }
+}
